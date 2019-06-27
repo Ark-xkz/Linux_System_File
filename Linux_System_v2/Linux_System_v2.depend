@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1561606719 source:f:\codeblock\linux_system_v2\main.cpp
+	"head.h"
+
+1561616412 f:\codeblock\linux_system_v2\head.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<conio.h>
+	<fstream>
+	<vector>
+
+1561605809 source:f:\codeblock\linux_system_v2\login.cpp
+	"head.h"
+
+1561618235 source:f:\codeblock\linux_system_v2\format.cpp
+	"head.h"
+
+1561606570 source:f:\codeblock\linux_system_v2\init.cpp
+	"head.h"
+
+1561339358 source:f:\codeblock\linux_system_v2\getemptyblock.cpp
+	"head.h"
+
+1561604840 source:f:\codeblock\linux_system_v2\saveinode.cpp
+	"head.h"
+
+1561000546 source:f:\codeblock\linux_system_v2\readblock.cpp
+	"head.h"
+
+1561258754 source:f:\codeblock\linux_system_v2\writeblock.cpp
+	"head.h"
+
+1561624908 source:f:\codeblock\linux_system_v2\releaseblock.cpp
+	"head.h"
+
+1561625000 source:f:\codeblock\linux_system_v2\ls.cpp
+	"head.h"
+
+1561618370 source:f:\codeblock\linux_system_v2\makenew.cpp
+	"head.h"
+
+1561621677 source:f:\codeblock\linux_system_v2\ln.cpp
+	"head.h"
+
+1561617616 source:f:\codeblock\linux_system_v2\find.cpp
+	"head.h"
+
+1561606359 source:f:\codeblock\linux_system_v2\head.cpp
+	"head.h"
+
